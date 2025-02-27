@@ -1,5 +1,5 @@
 # Indeed Jobs Web Scraping and Analysis: Project Overview
--	Scraped over 1000 job descriptions from Indeed web pages
+-	Scraped over 1200 job descriptions from Indeed web pages
 -	Visualized the companies and the locations with the highest number of job listings
 -	Calculated the average minim and maxim salary 
 -	Engineered features from the text of each job description to quantify the value companies put on specific tools, platforms, skills, and data science roles
@@ -13,14 +13,14 @@
 - Natural Language Toolkit (NLTK) for text analysis
 
 ## Web Scraping
-Scraping the Indeed webpage involved mainly the following steps:
+I scraped more than 1200 data science jobs from Indeed.com. This involved the following steps:
 - define function to access the HTML content from the webpage
 - define function for searching and extracting all details for a job posting
 - save the results to a csv file
 - repeat the steps above using different search criteria
 - merge all data into a final csv file
 
-I scraped more than 1200 data science jobs from Indeed.com. With each job I got the following data:
+With each job I got the following data:
 - Job Title
 - Salary
 - Job Description
