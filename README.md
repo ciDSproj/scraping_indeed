@@ -20,7 +20,7 @@ Scraping the Indeed webpage involved mainly the following steps:
 - repeat the steps above using different search criteria
 - merge all data into a final csv file
 
-I scraped more than 1200 jobs, for each job the following data:
+I scraped more than 1200 data science jobs from Indeed.com. With each job I got the following data:
 - Job Title
 - Salary
 - Job Description
