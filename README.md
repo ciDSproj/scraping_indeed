@@ -7,16 +7,15 @@
 
 ## Code and Resources Used
 - Python 3.7
-- Requests library for reading the HTML content of the web page
-- Beautiful Soup module to convert the content to a readable format
+- Requests library and Beautiful Soup module for reading the HTML content and convert it to a readable format
 - NumPy and Pandas libraries for data manipulation
 - Matplotlib and Seaborn for visualizations
 - Natural Language Toolkit (NLTK) for text analysis
 
 ## Web Scraping
 Scraping the Indeed webpage involved mainly the following steps:
-- access the HTML content from the webpage
-- search and extract the job details
+- define function to access the HTML content from the webpage
+- define function for searching and extracting all details for a job posting
 - save the results to a csv file
 - repeat the steps above using different search criteria
 - merge all data into a final csv file
