@@ -53,3 +53,4 @@ Using data analysis and visualizations, I tried to find answers to the following
 
 Below are some examples of visualizations.
 
+![Jobs by company](da2_jobs_comp.png)
