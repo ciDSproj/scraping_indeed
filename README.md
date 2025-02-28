@@ -32,11 +32,11 @@ After scraping the data, I needed to clean it up so it can be used for analysis.
 -	Remove duplicates
 -	Group the jobs by Company and by Location
 -	Calculate the average minim and maxim salary:
-o	drop the rows with missing values for salary and reset index
-o	check the formatting of the salary column
-o	define a function to format, calculate, and split salary in minim and maxim values
-o	create two new columns with minim and maxim salary for each job 
-o	determine the mean values of the columns with minim and maxim salary
+  -	drop the rows with missing values for salary and reset index
+  -	check the formatting of the salary column
+  -	define a function to format, calculate, and split salary in minim and maxim values
+  -	create two new columns with minim and maxim salary for each job 
+  -	determine the mean values of the columns with minim and maxim salary
 -	Text cleaning and preparation
 o	define a function to clean the text: tokenize, convert to lowercase, replace special characters, filter the stopwords
 o	create a dictionary with each word and the sum of its occurrences in the text
