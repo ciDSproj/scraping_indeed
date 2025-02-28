@@ -49,3 +49,6 @@ Using data analysis and visualizations, I tried to find answers to some question
 -	**What is the average minim and maxim salary?**
 -	**What is the frequency of words for specific tools and platforms, skills, and roles?**
 -	**Which are the most frequent words in job descriptions and job titles?**
+
+Below are some examples of visualizations.
+
