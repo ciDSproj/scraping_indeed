@@ -44,3 +44,8 @@ After scraping the data, I needed to clean it up so it can be used for analysis.
 -	Create a Word Cloud using the most frequent words in job descriptions
 
 ## EDA
+Using data analysis and visualizations, I tried to find answers to some questions: 
+-	Which companies or locations have the highest number of job listings?
+-	What is the average minim and maxim salary?
+-	What is the frequency of words for specific tools and platforms, skills, and roles?
+-	Which are the most frequent words in job descriptions and job titles?
