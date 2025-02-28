@@ -18,7 +18,7 @@ I scraped more than 1200 data science jobs from Indeed.com. This involved the fo
 - Define function for searching and extracting all details for a job posting
 - Scrape multiple webpages using specific search criteria
 - Save the results in a dataframe
-- Repeat scraping using different criteria
+- Repeat scraping using different search criteria
 - Merge all data into a final csv file
 
 With each job I got the following data:
