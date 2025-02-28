@@ -14,11 +14,12 @@
 
 ## Web Scraping
 I scraped more than 1200 data science jobs from Indeed.com. This involved the following steps:
-- define function to access the HTML content from the webpage
-- define function for searching and extracting all details for a job posting
-- save the results to a csv file
-- repeat the steps above using different search criteria
-- merge all data into a final csv file
+- Define function to access the HTML content from the webpage
+- Define function for searching and extracting all details for a job posting
+- Scrape multiple webpages using specific search criteria
+- Save the results in a dataframe
+- Repeat scraping using different criteria
+- Merge all data into a final csv file
 
 With each job I got the following data:
 - Job Title
