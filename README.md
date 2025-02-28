@@ -45,7 +45,7 @@ After scraping the data, I needed to clean it up so it can be used for analysis.
 -	Create a Word Cloud using the most frequent words in job descriptions
 
 ## EDA
-Using data analysis and visualizations, I tried to find answers to the following questions:
+I used data analysis and visualizations to answer the following questions:
 <br/>
 
 ### Which companies have the highest number of job listings?
