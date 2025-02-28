@@ -47,7 +47,6 @@ After scraping the data, I needed to clean it up so it can be used for analysis.
 ## EDA
 Using data analysis and visualizations, I tried to find answers to the following questions:
 
-
 <br/>
 
 ### Which companies have the highest number of job listings?
@@ -57,8 +56,7 @@ Notice that Microsoft has the highest number of jobs, followed by Amazon and Zil
 ![Jobs by Company](da2_jobs_comp.png)
 
 
-
-
+<br/>
 
 ### What is the frequency of words for specific tools and platforms, skills, and roles?
 
