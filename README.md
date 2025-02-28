@@ -56,19 +56,23 @@ Notice that Microsoft has the highest number of jobs, followed by Amazon and Zil
 
 
 
+
 ### What is the frequency of words for specific tools and platforms, skills, and roles?
+
+**Tableau** is the top data analytics tool while **Azure** is the preferred cloud computing platform. The roles as **data scientists** are in more demand than data analysts. Other roles like data engineer or machine learning engineer are less present. Most position types are for **senior** level, followed by intern and entry level.
 
 ![Jobs by Platforms and Tools](da2_tools_roles.png)
 
-Tableau is the top data analytics tool while Azure is the preferred cloud computing platform. The roles as data scientists are in more demand than data analysts. Other roles like data engineer or machine learning engineer are less present. Most position types are for senior level, followed by intern and entry level.
 
 
 
 ### Which are the most frequent words in job descriptions?
 
+A count of all words that occur in job descriptions and job titles highlight the importance of specific words. As Word Cloud shows, the most frequent word is **data**, followed by **machine learning**, **experience**, **engineering** and **customer**.
+
 ![Jobs by Company](da2_word_cloud.png)
 
-A count of all words that occur in job descriptions and job titles highlight the importance of specific words. As Word Cloud shows, the most frequent word is data, followed by machine learning, experience, engineering and customer.
+
 
 
 ### What is the average minim and maxim salary?
@@ -78,10 +82,14 @@ The results show that the **average salary** for a data scientist or data analys
 
 
 
+
 ### Which words have the highest count of occurrences in job title?
+
+The most frequent word in job Title is **data** with almost 160 counts. It is followed by **scientist** and **engineer** with almost 100 counts. **Learning**, **machine** and **analyst** words have counts lower than 60.
 
 ![Most Frequent Words in Job Title](da2_word_title.png)
 
-The most frequent word in job Title is **data** with almost 160 counts. It is followed by **scientist** and **engineer** with almost 100 counts. **Learning**, **machine** and **analyst** words have counts lower than 60.
+
+
 
 
