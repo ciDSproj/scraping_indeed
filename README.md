@@ -42,3 +42,5 @@ After scraping the data, I needed to clean it up so it can be used for analysis.
     -	create a dictionary with each word and the sum of its occurrences in the text
     -	make a dataframe with unique words and the count for each of them
 -	Create a Word Cloud using the most frequent words in job descriptions
+
+## EDA
