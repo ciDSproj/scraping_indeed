@@ -48,11 +48,12 @@ After scraping the data, I needed to clean it up so it can be used for analysis.
 Using data analysis and visualizations, I tried to find answers to the following questions:
 
 
-**Which companies have the highest number of job listings?**
+## Which companies have the highest number of job listings?
+
+Notice that Microsoft has the highest number of jobs, followed by Amazon and Zillow. There are 69 companies that posted only 1 job and 28 companies that listed 2 jobs. Most companies have between 1 and 10 jobs.
 
 ![Jobs by Company](da2_jobs_comp.png)
 
-Notice that Microsoft has the highest number of jobs, followed by Amazon and Zillow. There are 69 companies that posted only 1 job and 28 companies that listed 2 jobs. Most companies have between 1 and 10 jobs.
 
 
 **What is the frequency of words for specific tools and platforms, skills, and roles?**
