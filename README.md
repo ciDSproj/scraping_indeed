@@ -48,7 +48,7 @@ After scraping the data, I needed to clean it up so it can be used for analysis.
 Using data analysis and visualizations, I tried to find answers to the following questions:
 
 
-## Which companies have the highest number of job listings?
+### Which companies have the highest number of job listings?
 
 Notice that Microsoft has the highest number of jobs, followed by Amazon and Zillow. There are 69 companies that posted only 1 job and 28 companies that listed 2 jobs. Most companies have between 1 and 10 jobs.
 
@@ -56,33 +56,32 @@ Notice that Microsoft has the highest number of jobs, followed by Amazon and Zil
 
 
 
-**What is the frequency of words for specific tools and platforms, skills, and roles?**
+### What is the frequency of words for specific tools and platforms, skills, and roles?
 
 ![Jobs by Platforms and Tools](da2_tools_roles.png)
 
 Tableau is the top data analytics tool while Azure is the preferred cloud computing platform. The roles as data scientists are in more demand than data analysts. Other roles like data engineer or machine learning engineer are less present. Most position types are for senior level, followed by intern and entry level.
 
 
-**Which are the most frequent words in job descriptions?**
+
+### Which are the most frequent words in job descriptions?
 
 ![Jobs by Company](da2_word_cloud.png)
 
 A count of all words that occur in job descriptions and job titles highlight the importance of specific words. As Word Cloud shows, the most frequent word is data, followed by machine learning, experience, engineering and customer.
 
 
-**What is the average minim and maxim salary?**
+### What is the average minim and maxim salary?
 
 Calculating the average salary included checking the formatting of salary values then defining a function to format, calculate and split salary in minim and maxim values. 
 The results show that the **average salary** for a data scientist or data analyst role has a **minim** of **$115,887** a year and a **maxim** of **$159,665** a year.
 
 
-**Which words have the highest count of occurrences in job title?**
+
+### Which words have the highest count of occurrences in job title?
 
 ![Most Frequent Words in Job Title](da2_word_title.png)
 
 The most frequent word in job Title is **data** with almost 160 counts. It is followed by **scientist** and **engineer** with almost 100 counts. **Learning**, **machine** and **analyst** words have counts lower than 60.
-
-
-
 
 
