@@ -48,7 +48,7 @@ After scraping the data, I needed to clean it up so it can be used for analysis.
 Using data analysis and visualizations, I tried to find answers to the following questions:
 
 
-
+<br/>
 
 ### Which companies have the highest number of job listings?
 
