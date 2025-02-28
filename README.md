@@ -56,6 +56,13 @@ Notice that Microsoft has the highest number of jobs, followed by Amazon and Zil
 <br/>
 
 
+### What is the average minim and maxim salary?
+
+Calculating the average salary included checking the formatting of salary values then defining a function to format, calculate and split salary in minim and maxim values. 
+The results show that the **average salary** for a data scientist or data analyst role has a **minim** of **$115,887** a year and a **maxim** of **$159,665** a year.
+<br/>
+
+
 ### What is the frequency of words for specific tools and platforms, skills, and roles?
 
 **Tableau** is the top data analytics tool while **Azure** is the preferred cloud computing platform. The roles as **data scientists** are in more demand than data analysts. Other roles like data engineer or machine learning engineer are less present. Most position types are for **senior** level, followed by intern and entry level.
@@ -69,13 +76,6 @@ Notice that Microsoft has the highest number of jobs, followed by Amazon and Zil
 A count of all words that occur in job descriptions and job titles highlight the importance of specific words. As Word Cloud shows, the most frequent word is **data**, followed by **machine learning**, **experience**, **engineering** and **customer**.
 
 ![Jobs by Company](da2_word_cloud.png)
-<br/>
-
-
-### What is the average minim and maxim salary?
-
-Calculating the average salary included checking the formatting of salary values then defining a function to format, calculate and split salary in minim and maxim values. 
-The results show that the **average salary** for a data scientist or data analyst role has a **minim** of **$115,887** a year and a **maxim** of **$159,665** a year.
 <br/>
 
 
