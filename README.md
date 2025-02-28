@@ -38,7 +38,7 @@ After scraping the data, I needed to clean it up so it can be used for analysis.
      -	create two new columns with minim and maxim salary for each job 
      -	determine the mean values of the columns with minim and maxim salary
 -	Text cleaning and preparation
-o	define a function to clean the text: tokenize, convert to lowercase, replace special characters, filter the stopwords
-o	create a dictionary with each word and the sum of its occurrences in the text
-o	make a dataframe with unique words and the count for each of them
+    -	define a function to clean the text: tokenize, convert to lowercase, replace special characters, filter the stopwords
+    -	create a dictionary with each word and the sum of its occurrences in the text
+    -	make a dataframe with unique words and the count for each of them
 -	Create a Word Cloud using the most frequent words in job descriptions
