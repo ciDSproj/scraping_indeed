@@ -48,11 +48,14 @@ After scraping the data, I needed to clean it up so it can be used for analysis.
 Using data analysis and visualizations, I tried to find answers to the following questions:
 
 
+
+
 ### Which companies have the highest number of job listings?
 
 Notice that Microsoft has the highest number of jobs, followed by Amazon and Zillow. There are 69 companies that posted only 1 job and 28 companies that listed 2 jobs. Most companies have between 1 and 10 jobs.
 
 ![Jobs by Company](da2_jobs_comp.png)
+
 
 
 
@@ -66,6 +69,7 @@ Notice that Microsoft has the highest number of jobs, followed by Amazon and Zil
 
 
 
+
 ### Which are the most frequent words in job descriptions?
 
 A count of all words that occur in job descriptions and job titles highlight the importance of specific words. As Word Cloud shows, the most frequent word is **data**, followed by **machine learning**, **experience**, **engineering** and **customer**.
@@ -75,10 +79,12 @@ A count of all words that occur in job descriptions and job titles highlight the
 
 
 
+
 ### What is the average minim and maxim salary?
 
 Calculating the average salary included checking the formatting of salary values then defining a function to format, calculate and split salary in minim and maxim values. 
 The results show that the **average salary** for a data scientist or data analyst role has a **minim** of **$115,887** a year and a **maxim** of **$159,665** a year.
+
 
 
 
