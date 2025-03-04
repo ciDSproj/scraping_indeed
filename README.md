@@ -31,7 +31,8 @@ With each job I got the following data:
 ## Data Cleaning
 After scraping the data, I needed to clean it up so it can be used for analysis. I made the following changes and created new variables:
 -	Remove duplicates
--	Group the jobs by Company and by Location
+-	Group the jobs by Company
+-	Group the jobs by Location
 -	Calculate the average minim and maxim salary:
      -	drop the rows with missing values for salary and reset index
      -	check the formatting of the salary column
@@ -42,7 +43,7 @@ After scraping the data, I needed to clean it up so it can be used for analysis.
     -	define a function to clean the text: tokenize, convert to lowercase, replace special characters, filter the stopwords
     -	create a dictionary with each word and the sum of its occurrences in the text
     -	make a dataframe with unique words and the count for each of them
--	Create a Word Cloud using the most frequent words in job descriptions
+-	Create a word cloud using the most frequent words in job descriptions
 
 ## EDA
 I used data analysis and visualizations to answer the following questions:
