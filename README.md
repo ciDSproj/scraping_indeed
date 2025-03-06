@@ -9,7 +9,7 @@
 - Python 3.7
 - Requests library and Beautiful Soup module for reading the HTML content and convert it to a readable format
 - NumPy and Pandas libraries for data manipulation
-- Matplotlib and Seaborn for visualizations
+- Matplotlib and Seaborn libraries for data visualization
 - Natural Language Toolkit (NLTK) for text analysis
 
 ## Web Scraping
