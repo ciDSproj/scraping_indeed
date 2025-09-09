@@ -1,4 +1,6 @@
-# Indeed Jobs Web Scraping and Analysis: Project Overview
+# Web Scraping and Text Analysis 
+
+## Project Overview
 -	Scraped over 1200 job descriptions from Indeed web pages
 -	Visualized the companies and the locations with the highest number of job listings
 -	Calculated the average minim and maxim salary 
