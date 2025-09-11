@@ -30,7 +30,7 @@ With each job I got the following data:
 - Company
 - Location
 
-## Data Cleaning
+## Data Preparation
 After scraping the data, I needed to clean it up so it can be used for analysis. I made the following changes and created new variables:
 -	Remove duplicates
 -	Group the jobs by Company
